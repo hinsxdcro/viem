@@ -1,5 +1,13 @@
 # viem
 
+## 2.31.8
+
+### Patch Changes
+
+- [#3792](https://github.com/wevm/viem/pull/3792) [`6051ca36a7beb979e962366c2409307772542ce4`](https://github.com/wevm/viem/commit/6051ca36a7beb979e962366c2409307772542ce4) Thanks [@rizwanmoulvi](https://github.com/rizwanmoulvi)! - Added Xphere chain.
+
+- [#3785](https://github.com/wevm/viem/pull/3785) [`1862bfc09cf10a4d3cde7218876058123030843a`](https://github.com/wevm/viem/commit/1862bfc09cf10a4d3cde7218876058123030843a) Thanks [@arongrp](https://github.com/arongrp)! - Added Graphite chains
+
 ## 2.31.7
 
 ### Patch Changes
